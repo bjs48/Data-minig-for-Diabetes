@@ -1,1 +1,1 @@
-# Data-minig-for-Diabetes
+# Data-mining-for-Diabetes
